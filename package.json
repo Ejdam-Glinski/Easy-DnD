@@ -14,7 +14,7 @@
     "custom-event-polyfill": "^1.0.7",
     "regenerator-runtime": "^0.13.7",
     "roboto-fontface": "*",
-    "vue": "^2.6.10",
+    "vue": "^3.0.5",
     "vue-class-component": "^7.2.3",
     "vue-property-decorator": "^8.4.1",
     "vuetify": "^2.1.13"
